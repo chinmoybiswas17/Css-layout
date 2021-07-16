@@ -1,0 +1,81 @@
+.div1-div2{
+    display: flex;
+}
+.div1{
+background-image: url(images/Screenshot_52.png);
+width: 500px;
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+opacity: 0.8;
+}
+.div2{
+
+}
+.div2-1{
+    background-image: url(images/Screenshot_1.png);
+    width: 500px;
+    height: 250px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.div2-2{
+    background-image: url(images/Screenshot_2.png);
+    width: 500px;
+    height: 250px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.div3{
+display: flex;
+}
+.div3-1{
+    background-image: url(images/Screenshot_3.png);
+    width: 500px;
+    height:200px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.div3-2{
+    background-image: url(images/Screenshot_4.png);
+    width:200px;
+    height:200px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+    
+.div3-3{
+    background-image: url(images/Screenshot_6.png);
+    width: 300px;
+    height:400px;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.div4{
+}
+.div4-1{
+    display: inline-block;
+    background-image: url(images/Screenshot_5.png);
+    width: 500px;
+    height:200px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 8px;
+    top: 708px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div4-2{
+    display: inline-block;
+    background-image: url(images/contact-bg.jpg);
+    width: 200px;
+    height:200px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 508px;
+    top: 708px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
